@@ -15,12 +15,11 @@
 [<img align="left" alt="destrolaric | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="destrolaric | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][VK]
 [<img align="left" alt="destrolaric | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]
-
 <br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Destrolaric&count_private=true)
 
-[website]: https://www.destrolaric.tk
+[website]: http://www.destrolaric.tk
 [mail]: fireshowel@gmail.com
 [discord]: https://discordapp.com/users/157875352461377537
 [VK]: https://https://vk.com/delete0your0page
