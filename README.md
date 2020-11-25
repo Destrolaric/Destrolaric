@@ -12,9 +12,9 @@
 - ⚡ Fun fact: Sleep deprivation can cause code quality to drop
 
 [<img align="left" alt="www.destrolaric.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="destrolaric | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="destrolaric | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="destrolaric | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="destrolaric | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="destrolaric | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][VK]
+
 [<img align="left" alt="destrolaric | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Destrolaric&count_private=true)
@@ -22,3 +22,4 @@
 [website]: https://www.destrolaric.com
 [mail]: fireshowel@gmail.com
 [discord]: https://discordapp.com/users/157875352461377537
+[VK]: https://https://vk.com/delete0your0page
