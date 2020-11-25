@@ -20,7 +20,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Destrolaric&count_private=true)
 
-[website]: https://www.destrolaric.com
+[website]: https://www.destrolaric.tk
 [mail]: fireshowel@gmail.com
 [discord]: https://discordapp.com/users/157875352461377537
 [VK]: https://https://vk.com/delete0your0page
