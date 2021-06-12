@@ -12,7 +12,6 @@
 - ⚡ Fun fact: Sleep deprivation can cause code quality to drop
 
 [<img align="left" alt="destrolaric | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="destrolaric | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][VK]
 [<img align="left" alt="destrolaric | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]
 <br>
 
