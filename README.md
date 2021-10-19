@@ -4,12 +4,7 @@
 **Destrolaric/Destrolaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## Goals
-- 🔭 I’m currently working on getting internship
-- 🌱 I’m currently learning C++
-- 👯 I’m looking to collaborate on some open source projects
-- 🤔 I’m looking for help with finding a workplace
-- 📫 How to reach me: Write me on email
-- ⚡ Fun fact: Sleep deprivation can cause code quality to drop
+Find the **JOB**
 
 [<img align="left" alt="destrolaric | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="destrolaric | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]
