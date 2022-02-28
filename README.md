@@ -1,5 +1,4 @@
-### Hi my name George
-
+### Hi, my name is George, I am currently studying and working. 
 <!--
 **Destrolaric/Destrolaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
