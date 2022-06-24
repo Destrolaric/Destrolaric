@@ -5,7 +5,7 @@
 
 ## Goals
 * Get experience in Java to level up my skills. 
-* Finish university degree
+* Gain an university degree
 * Have a good time
 
 [<img align="left" alt="destrolaric | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]
