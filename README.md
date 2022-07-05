@@ -2,11 +2,7 @@
 <!--
 **Destrolaric/Destrolaric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-## Goals
-* Get experience in Java to level up my skills. 
-* Gain an university degree
-* Have a good time
+Hi everyone!
 
 [<img align="left" alt="destrolaric | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][Telegram]
 <br>
